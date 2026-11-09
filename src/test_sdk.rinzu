@@ -1,0 +1,6 @@
+/// Return the sum of two integers.
+fn add(left: Int, right: Int) -> Int {
+    return left + right;
+}
+
+export add;
